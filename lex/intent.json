@@ -1,0 +1,13 @@
+{
+  "name": "GetWeatherInfo",
+  "sampleUtterances": [
+    "What is the weather in {city}?",
+    "Tell me temperature of {city}"
+  ],
+  "slots": [
+    {
+      "name": "city",
+      "type": "AMAZON.City"
+    }
+  ]
+}
